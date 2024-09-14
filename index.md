@@ -14,9 +14,6 @@ We use the posture and pose of the user to move the character in the game. We ha
 
 _Character that moves entirely based on user's movement._
 
-
-Reward based ε decay strategy also outperforms exponential decay strategy when used with DQNs on the same problem, with the added benefit of easier hyperparameter tuning. Not only does it solve the environment quicker, it does so more consistently.
-
 ## Try it. 
 
 We want to make a game that caters to your needs, which is why your feedback is critical for us.
