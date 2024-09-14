@@ -24,7 +24,7 @@ Try the game and let us know your thoughts.
     <a href="https://play.google.com/store/apps/details?id=yourapp">
         <img src="assets/images/icon-playstore-64.png" alt="Download on Google Play" class="download-icon">
     </a>
-    <a href="https://apps.apple.com/app/idyourappid">
+    <a href="https://testflight.apple.com/join/WyGarSSx">
         <img src="assets/images/icon-ios-64.png" alt="Download on the App Store" class="download-icon">
     </a>
     <a href="https://yourwebsite.com/download/windows">
