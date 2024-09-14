@@ -25,13 +25,13 @@ Try the game and let us know your thoughts.
 <!-- Download Icons Section -->
 <div class="download-buttons">
     <a href="https://play.google.com/store/apps/details?id=yourapp">
-        <img src="assets/images/icon-playstore.png" alt="Download on Google Play" class="download-icon">
+        <img src="assets/images/icon-playstore-64.png" alt="Download on Google Play" class="download-icon">
     </a>
     <a href="https://apps.apple.com/app/idyourappid">
-        <img src="assets/images/icon-ios.png" alt="Download on the App Store" class="download-icon">
+        <img src="assets/images/icon-ios-64.png" alt="Download on the App Store" class="download-icon">
     </a>
     <a href="https://yourwebsite.com/download/windows">
-        <img src="assets/images/icon-windows.png" alt="Download for Windows" class="download-icon">
+        <img src="assets/images/icon-windows-64.png" alt="Download for Windows" class="download-icon">
     </a>
     <!-- <a href="https://yourwebsite.com/download/mac">
         <img src="assets/images/icon-mac.png" alt="Download for Mac" class="download-icon">
