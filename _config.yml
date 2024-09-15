@@ -2,5 +2,6 @@ theme: jekyll-theme-leap-day
 title: Fit Pixels
 description: Turn fitness into fun!
 show_downloads: false
+favicon: assets/images/run.ico
 github:
   is_project_page: false
