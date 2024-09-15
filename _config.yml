@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Fit Pixels
 description: Join us in creating a game that helps you be more active, the way you want to be.
 show_downloads: false
+github:
+  is_project_page: false
