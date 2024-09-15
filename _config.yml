@@ -1,6 +1,6 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-leap-day
 title: Fit Pixels
-description: Join us in creating a game that helps you be more active, the way you want to be.
+description: Turn fitness into fun!
 show_downloads: false
 github:
   is_project_page: false
