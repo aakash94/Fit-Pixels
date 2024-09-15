@@ -1,24 +1,26 @@
 # Fit Pixels
 
 
-## What is it?
+## What is Fit Pixels?
 
-A game designed to help you be more active.
+Fit Pixels is an interactive fitness game designed to make you move! Whether you're looking to add more activity to your day or turn your workout into a playful experience, Fit Pixels gets you up and moving by turning your real-life posture and poses into game controls. Ready to see it in action? [Watch the demo here!](https://youtu.be/xK7cRz1gzI0)
 
 
-## About the game
+## Why Fit Pixels?
 
-We use the posture and pose of the user to move the character in the game. We have a proof-of-concept, that we want to turn into an engaging game for you. Together we can make fitness fun.
+Tired of boring workouts? We’ve got you covered! Fit Pixels brings fitness and gaming together in a way that's both fun and engaging. With our game, you are the controller. Squat, stretch — and watch as your in-game character mirrors your every move!
 
 ![Screenshot](assets/images/app-screenshot.png)
 
-_Character that moves entirely based on user's movement._
+_Your movements power the game. Stay active, level up, and unlock your fitness potential!_
 
-## Try it. 
+## Join the Fitness Revolution! 
 
-We want to make a game that caters to your needs, which is why your feedback is critical for us.
-Try the game and let us know your thoughts.
-Sign up [here](https://forms.gle/dd22ndE1Mvdy1idn9) for early access. 
+We’re just getting started, and we want YOU to help shape the future of Fit Pixels. Your feedback is invaluable to us, and we’re excited to make this game the ultimate fitness experience with your input.
+Be part of the early access community —[Sign up here](https://forms.gle/dd22ndE1Mvdy1idn9) to get exclusive access before the official launch! 
+
+## Ready to Play?
+Fit Pixels is available on multiple platforms. Download and start your fitness journey:
 
 <!-- Download Icons Section -->
 <div class="download-buttons">
@@ -36,9 +38,10 @@ Sign up [here](https://forms.gle/dd22ndE1Mvdy1idn9) for early access.
     </a> -->
 </div>
 
-## About us.
+## About us
 
-We the best. 
+At Fit Pixels, we believe fitness should be fun, immersive, and something you look forward to every day. We're passionate about using technology to help people live healthier, more active lives — and we want you to join us on this journey.
 
-## Contact
+## Let's Talk!
+Have questions, ideas, or feedback? We’d love to hear from you! Reach out to us at 
 Email: [fitpixels2024@gmail.com](mailto:fitpixels2024@gmail.com "Fit Pixels's contact email.")
